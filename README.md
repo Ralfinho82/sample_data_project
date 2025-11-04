@@ -1,7 +1,6 @@
 # Telecom Customers Data Warehouse (Sample)
 
 This repository contains a **Databricks PySpark project** that demonstrates:
-- Downloading and importing data from **Kaggle** into Databricks
 - Cleaning file names and column names
 - Managing table naming conventions using a configurable `DataProductConfig` class
 - Writing data to Unity Catalog tables in predefined schemas (`data_sources`, `data_products`, `analytics_products`)
